@@ -1,0 +1,4 @@
+https://docs.microsoft.com/fr-fr/office/vba/language/reference/user-interface-help/object-variable-not-set-error-91
+https://docs.microsoft.com/en-us/office/vba/api/excel.range.find
+https://www.xelplus.com/excel-vba-find-function/
+https://excelmacromastery.com/excel-vba-find/
